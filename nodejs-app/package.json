@@ -6,6 +6,10 @@
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
+<<<<<<< HEAD
     "express": "~4.14.2"
+=======
+    "express": "^4.14.x"
+>>>>>>> ee1ee569238182ae64709c798538921cad317d16
   }
 }
